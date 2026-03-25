@@ -4,9 +4,9 @@ collection: publications
 category: firstauthor
 permalink: /publication/2022-designing-shared-values
 excerpt: ''
-date: 2022
+date: 2022-11-11
 venue: 'Proceedings of the ACM on Human-Computer Interaction (CSCW)'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
+slidesurl: 'https://rjonas0.github.io/files/DesigningforSharedValues.pdf'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3555182'
 citation: 'Jonas, R. M., & Hanrahan, B. V. (2022). Designing for shared values: Exploring ethical dilemmas of conducting values inclusive design research. <i>Proceedings of the ACM on Human-Computer Interaction, 6</i>(CSCW2), 1-20.'
 ---
